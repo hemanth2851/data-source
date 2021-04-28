@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>loan table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>loan table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6d8522d46103101091f9f50378a16b17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+        <sys_created_on>2021-04-26 09:36:22</sys_created_on>
+        <sys_id>bc7aa2782f7f2010df5d532a2799b6bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>loan table</sys_name>
+        <sys_package display_value="loan request" source="x_589115_loan_requ">820aae382f7f2010df5d532a2799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loan request">820aae382f7f2010df5d532a2799b643</sys_scope>
+        <sys_update_name>sys_wizard_answer_bc7aa2782f7f2010df5d532a2799b6bf</sys_update_name>
+        <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+        <sys_updated_on>2021-04-26 09:36:22</sys_updated_on>
+        <table/>
+        <target_url>x_589115_loan_requ_loan_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

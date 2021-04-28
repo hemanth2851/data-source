@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="loan table" language="en" table="x_589115_loan_requ_loan_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>loan table</label>
+            <language>en</language>
+            <name>x_589115_loan_requ_loan_table</name>
+            <plural>loan tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+            <sys_created_on>2021-04-26 09:36:22</sys_created_on>
+            <sys_id>7c7aa2782f7f2010df5d532a2799b6c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>loan table</sys_name>
+            <sys_package display_value="loan request" source="x_589115_loan_requ">820aae382f7f2010df5d532a2799b643</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="loan request">820aae382f7f2010df5d532a2799b643</sys_scope>
+            <sys_update_name>sys_documentation_x_589115_loan_requ_loan_table__en</sys_update_name>
+            <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+            <sys_updated_on>2021-04-26 09:36:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</contains>
+        <role display_value="x_589115_loan_requ.loanreq" name="x_589115_loan_requ.loanreq">261aee382f7f2010df5d532a2799b615</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+        <sys_created_on>2021-04-26 09:48:03</sys_created_on>
+        <sys_id>402d2e3c2f7f2010df5d532a2799b65e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin.x_589115_loan_requ.loanreq</sys_name>
+        <sys_package display_value="loan request" source="x_589115_loan_requ">820aae382f7f2010df5d532a2799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loan request">820aae382f7f2010df5d532a2799b643</sys_scope>
+        <sys_update_name>sys_user_role_contains_402d2e3c2f7f2010df5d532a2799b65e</sys_update_name>
+        <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+        <sys_updated_on>2021-04-26 09:48:03</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

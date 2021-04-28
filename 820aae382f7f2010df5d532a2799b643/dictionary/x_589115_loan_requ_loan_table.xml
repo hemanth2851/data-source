@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="loan table" max_length="40" name="x_589115_loan_requ_loan_table" sizeclass="0" type="collection">
+        <element label="loan number" max_length="40" name="loan_number" type="integer"/>
+    </element>
+</database>

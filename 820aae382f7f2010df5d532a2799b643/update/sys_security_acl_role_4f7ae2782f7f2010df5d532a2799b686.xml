@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+        <sys_created_on>2021-04-26 09:36:31</sys_created_on>
+        <sys_id>4f7ae2782f7f2010df5d532a2799b686</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_589115_loan_requ_loan_table.x_589115_loan_requ.loanreq</sys_name>
+        <sys_package display_value="loan request" source="x_589115_loan_requ">820aae382f7f2010df5d532a2799b643</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loan request">820aae382f7f2010df5d532a2799b643</sys_scope>
+        <sys_security_acl display_value="x_589115_loan_requ_loan_table">437ae2782f7f2010df5d532a2799b684</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4f7ae2782f7f2010df5d532a2799b686</sys_update_name>
+        <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+        <sys_updated_on>2021-04-26 09:36:31</sys_updated_on>
+        <sys_user_role display_value="x_589115_loan_requ.loanreq" name="x_589115_loan_requ.loanreq">261aee382f7f2010df5d532a2799b615</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
